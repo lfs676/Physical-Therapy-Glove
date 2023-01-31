@@ -39,10 +39,13 @@ Este Projeto foi baseado na plataforma do Arduino UNO, sendo completamente alime
 
 #
 # Esquemático do Projeto
+O arquivo do projeto foi construido no software Proteus 8.9, sendo necessário esta versão ou uma superior para abrir o mesmo.
+Para baixar o esquemático clique [aqui](https://github.com/lfs676/Physical-Therapy-Glove/raw/main/Physical%20Therapy%20Glove.pdsprj).<br>
 <img src="https://github.com/lfs676/Physical-Therapy-Glove/blob/main/data/Schematic.jpg?raw=true">
 
 #
 # Layout da Placa de Circuito Impresso
+Para baixar o Layout clique [aqui](https://github.com/lfs676/Physical-Therapy-Glove/raw/main/Layout.PDF).<br>
 <img src="https://github.com/lfs676/Physical-Therapy-Glove/blob/main/data/Layout.png?raw=true">
 
 #
